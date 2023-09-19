@@ -1,0 +1,5 @@
+﻿  Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Test.cpp
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Controle0.V2\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Lib\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Lib.cpp(16,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Controle0.V2\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Lib\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Lib.cpp(18,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Controle0.V2\Debug\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Test.lib and object C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Controle0.V2\Debug\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Test.exp
+  Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Test.vcxproj -> C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Controle0.V2\Debug\Tyuiu.BreslavskayaIV.Controle0.V2.Task1.Test.dll
